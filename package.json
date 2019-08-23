@@ -1,0 +1,31 @@
+{
+  "name": "curatormaximizer",
+  "version": "0.1.0",
+  "description": "Curator bot and max profit analyzer",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raserrano/curatormaximizer.git"
+  },
+  "keywords": [
+    "steem",
+    "curator",
+    "curation",
+    "bot"
+  ],
+  "author": "raserrano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raserrano/curatormaximizer/issues"
+  },
+  "homepage": "https://github.com/raserrano/curatormaximizer#readme",
+  "dependencies": {
+    "eslint": "^6.2.1",
+    "mongodb": "^3.3.0",
+    "steem": "^0.7.7"
+  }
+}
